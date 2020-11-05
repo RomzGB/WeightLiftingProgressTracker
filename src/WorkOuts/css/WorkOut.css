@@ -1,0 +1,121 @@
+.DeleteWorkOutButton {
+    background: #ff0000;
+    font-weight: bold;
+    color: white;
+    font-size: 9px;
+    padding: 3px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(255, 239, 11);
+    text-align: center;
+    width: 45px;
+    margin: 0 auto;
+}
+
+.WorkOut {
+    background: #000000;
+    display: inline-block;
+    color: #ffffff;
+    width: 200px;
+    height: 40px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    font-size: 30px;
+    text-align: center;
+    margin: 10px;
+    vertical-align:middle;
+    line-height: 40px;
+}
+
+.InnerWorkOutDiv {
+    width: 100%;
+    height:100%;
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.SelectExercise {
+    text-align-last:center;
+    display: block;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #444;
+    line-height: 1.3;
+    text-align: center;
+    margin: auto;
+    padding: .6em 1.4em .5em .8em;
+    width: 50%;
+    max-width: 100%; /* useful when width is set to anything other than 100% */
+    box-sizing: border-box;
+    border: 1px solid #aaa;
+    box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
+    border-radius: .5em;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: #fff;
+}
+
+
+.ConfirmNewDateButton {
+    background: #9b9b9b;
+    color: #ffffff;
+    width: 60px;
+    height: 40px;
+    -webkit-text-stroke: 1px #000000;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.OutterWorkOutDiv {
+    width: 100%;
+    height:100%;
+    background: #bef2ff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+
+.EditDateButton{
+    background: #9b9b9b;
+    color: #000000;
+    height: 40px;
+    display: inline-block;
+    border-style: solid;
+    line-height: 40px;
+    border-width: 3px;
+    border-color: black;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    margin: 20px;
+    vertical-align: middle;
+}
+
+
+.AddExerciseButton {
+    background: #500045;
+    font-weight: bold;
+    color: white;
+    font-size: 9px;
+    padding: 3px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(255, 239, 11);
+    text-align: center;
+    width: 45px;
+    margin: 0 auto;
+}

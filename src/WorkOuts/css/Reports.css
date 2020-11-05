@@ -1,0 +1,13 @@
+.positiveSpan {
+    font-weight: bold;
+    color: green;
+}
+
+.zeroSpan{
+    color: green;
+}
+
+.negativeSpan{
+    color:red;
+    font-weight: bold;
+}
